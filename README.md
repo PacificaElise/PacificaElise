@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hello, world! I'm <a href="https://daniilshat.ru/" target="_blank">Tatiana</a> 
+  Hello, world! I'm <a href="https://github.com/PacificaElise" target="_blank">Tatiana</a> 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h2>
 <h3 align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=3000&color=3183F7&width=435&lines=%F0%9F%9A%80Web+developer+%7C+%F0%9F%91%A9%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB+Forever+student+" alt="Typing SVG" /></a>
