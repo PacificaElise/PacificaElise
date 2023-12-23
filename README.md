@@ -15,7 +15,7 @@
 Мне нравится решать сложные задачи: разрабатывать сайты и веб-приложения с удобным интерфейсом.
 Меня захватывает процесс разработки и возможность создавать удобные и полезные продукты. Мои работы можно увидеть здесь: <a href="https://github.com/stars/PacificaElise/lists/my-stack" target="_blank">репозиторий</a>. 
 А также на моём сайте: 
-## <a href="https://tatianaivanovaportfolio.netlify.app" target="_blank">сайт-портфолио</a>
+#### <a href="https://tatianaivanovaportfolio.netlify.app" target="_blank">Cайт-портфолио</a>
 
 Окончила курс "Frontend разработчик" в <a href="https://itgirlschool.com" target="_blank">Itgirlschool</a>. Ежедневно практикуюсь в программировании. В данный момент прохожу обучение в RS School. Прошла курсы на udemy.com:
 - Фундаментальный JavaScript.
